@@ -1,2 +1,4 @@
-# wails-angular
-Example to demonstrate debugger inside Angular project inside Wails
+# Wails with Angular
+
+`git clone` and then just `F5` in Visual Studio
+

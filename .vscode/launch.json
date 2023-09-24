@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch wails executable",
+            "preLaunchTask": "build",
+            "type": "PowerShell",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "script": "wails.exe dev",
+            "args": []
+        }
+    ]
+  }
